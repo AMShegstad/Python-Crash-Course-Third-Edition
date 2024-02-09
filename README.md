@@ -1,7 +1,7 @@
 # Python-Crash-Course-Third-Edition
 All work completed from "Python Crash Course 3rd Edition" textbook from No Starch Press
 
-<img src="PCC3e">
+<img src="PCC3e.jpg">
 
 <ol>
     <li>Basics</li>
