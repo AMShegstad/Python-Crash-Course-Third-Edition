@@ -1,3 +1,5 @@
+# Alexander Shegstad
+
 # Famous Quote 2 - Repeat exercise 2-5, but this time, represent the famous person's name
 # using a variable called famous_person. Then compose your message and represent it with
 # a variable called message.
