@@ -76,3 +76,35 @@ tech_brands.remove(seemsCheap)
 print(tech_brands)
 print(f"\nI just think that {seemsCheap} seems like a cheap and inferior product.")
 
+# You can sort a list permanently using the sort() method. Once this is done, however, you cannot revert the order.
+sitcoms = ['Seinfeld', 'King Of Queens', 'Frasier', 'How I Met Your Mother', 'The Office']
+sitcoms.sort()
+print(sitcoms)
+
+# When sorting strings, the sort() method will sort alphebetically by default, but you can pass the
+# value reverse=True to sort in reverse-alphabetical order.
+sitcoms.sort(reverse=True)
+print(sitcoms)
+
+# You can sort a list temporarily by using the sorted() function and passing the list to it.
+first_names = ['blake', 'alex', 'steven', 'michael', 'george', 'charlie', 'zane', 'wilson']
+print("Here is the original list: ")
+print(first_names)
+
+print("Here is the sorted list: ")
+print(sorted(first_names))
+
+print("Here is the original list again: ")
+print(first_names)
+# See??
+
+# You can reverse the original order of a list by using the reverse() method. This differs from using the reverse=True value in that it doesn't sort first.
+# It simply reverses the current order of the list.
+bugs = ['mantis', 'ant', 'wasp', 'caterpillar', 'mosquito']
+print(bugs)
+bugs.reverse()
+print(bugs)
+
+# To find the length of a list, you can use the len() function!
+print(len(cars))
+
