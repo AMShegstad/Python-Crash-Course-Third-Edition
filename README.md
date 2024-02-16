@@ -7,8 +7,8 @@ All work completed from "Python Crash Course 3rd Edition" textbook from No Starc
     <li>Basics</li>
         <ol>
             <li>Getting Started</li>
-            <li>Variables and Simple Data Types</li>
-            <li>Introducing Lists</li>
+            <li><a href="https://github.com/AMShegstad/Python-Crash-Course-Third-Edition/tree/main/Chapter%202">Variables and Simple Data Types</a></li>
+            <li><a href="https://github.com/AMShegstad/Python-Crash-Course-Third-Edition/tree/main/Chapter%203">Introducing Lists</a></li>
             <li>If Statements</li>
             <li>Dictionaries</li>
             <li>User Input and While Loops</li>
